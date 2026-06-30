@@ -199,7 +199,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 Paste your link here:
 
-`https://medium.com/@bunmiolowoyeye20/from-support-queue-to-production-pipeline-how-oluwabunmi-engineered-her-way-into-the-cloud-3726bf46a342`
+https://medium.com/@bunmiolowoyeye20/from-support-queue-to-production-pipeline-how-oluwabunmi-engineered-her-way-into-the-cloud-3726bf46a342
 
 ---
 
@@ -263,16 +263,35 @@ Choose books that improve:
 
 ## Book List
 
-1. Change your thinking, Change your life - Brain Tracy
-2. Holy Spirit (Are we Flammable or Fireproof) - Reinhard Bonnke
-3. When God Speaks - Gbile Akanni
-4. The 5am Club - Robin Sharma
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+#### 1. Change your thinking, Change your life - Brain Tracy
+![Change your thinking](<screenshots/Change you thinking.png>)
+
+#### 2. Holy Spirit (Are we Flammable or Fireproof) - Reinhard Bonnke
+![Holy spirit](<screenshots/Holy Spirit.png>)
+
+#### 3. When God Speaks - Gbile Akanni
+![When God speaks](<screenshots/When God speaks.png>)
+
+#### 4. The 5am Club - Robin Sharma
+![5am club](<screenshots/5am club.png>)
+
+#### 5. Atomic Habits - James Clear
+![Atomic habits](<screenshots/Atomic Habits.png>)
+
+#### 6. Rich Dad Poor Dad - Robert Kiyosaki
+![Rich Dad](<screenshots/Rich Dad, Poor Dad.png>)
+
+#### 7. How to Win Friends and Influence People — Dale Carnegie
+![How to win friends](<screenshots/How to win friends.png>)
+
+#### 8. Why We Sleep - Matthew Walker
+![Why we sleep](<screenshots/Why we sleep.png>)
+
+#### 9. Leaders Eat Last - Simon Sinek
+![Leaders eat last](<screenshots/Leaders eat last.png>)
+
+#### 10. Deep Work - Cal Newport
+![Deep work](<screenshots/Deep work.png>)
 
 ---
 
@@ -301,16 +320,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Complete hands-on DevOps labs on KodeKloud
+* Properly document all projects and troubleshooting work
+* Ship completed projects to GitHub
+* Track my progress weekly
+* Block a minimum of one hour daily for focused learning 
+* Reduce screen time
+* Increase daily water intake 
+* Get at least 7 hours of sleep nightly
+* Get a skipping rope and skip daily for exercise
+* Track monthly budget to avoid overspending
 
 ---
 
@@ -336,8 +355,14 @@ Examples:
 
 Answer:
 
-Add your answer here...
-
+* Set a monthly budget for household bills
+* Break down tasks into daily and weekly goals
+* Delegate or outsource unimportant tasks that take up valuable time
+* Set worries aside — worry doesn't solve problems, action does
+* Write down the goals I want to achieve before the end of 2026
+* Reply to all pending messages once daily tasks are complete
+* Share new ideas with my peers
+* Own my space — take full responsibility for my actions
 ---
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
@@ -354,7 +379,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Monday: Weekly Review
+* Tuesday-Friday: 240 minutes deep work
+* Saturday: DMI session
+* Sunday: Rest
 
 ---
 
@@ -362,11 +390,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Daily: Spend a minimum of one hour on DMI and further learning
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+* Six sessions per week
 
 ---
 
@@ -380,7 +408,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Put my phone on silent during focus hours
+* Freeze/disable social media apps during focus time
+* Maintain a clean desk rule
 
 ---
 
@@ -388,28 +418,45 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+My dedication and consistency in pursuing a DevOps role aren't just temporary motivation, they're proving to be a defining trait. Even on tough days, I keep showing up for the learning and the work.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Imposter syndrome. Despite the consistent effort and progress I've made since starting this journey, there's still a quiet voice questioning whether I'm "enough" or moving fast enough.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+A daily one hour focus block dedicated to deep DevOps practice, no distractions. Paired with a weekly review (15 minutes) to log progress: skills learned, projects shipped, and wins (big or small) to track growth and quiet the imposter syndrome with evidence.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+This week taught me something about myself I needed to hear: my dedication and consistency in pursuing a career in DevOps are not going unnoticed — at least not by me.
+
+I've shown up, learned, practiced, and kept going, even on the days motivation was nowhere to be found.
+
+But here's the honest part: imposter syndrome is still very much a companion on this journey. Even with visible progress, there's a quiet voice asking if I'm doing enough, learning fast enough, or truly capable enough.
+
+Instead of waiting for that voice to disappear, I'm starting a new system this week:
+
+→ A daily one hour deep focus block for hands-on DevOps practice
+
+→ A weekly review every to track what I've learned, built, and improved
+
+The goal isn't to silence imposter syndrome with positive thinking. It is to drown it out with evidence. Real, measurable proof of growth, one consistent day at a time.
+
+If you're on a similar journey into DevOps, cloud, or any technical career shift I'd love to hear how you're tracking your own growth.
+
+#DevOps #CloudEngineering #CareerGrowth #ConsistencyOverMotivation #ImposterSyndrome
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/bummie_devops-cloudengineering-careergrowth-share-7477757210178232320-rrjt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw
+ 
+- Blog / Medium : https://medium.com/@bunmiolowoyeye20/from-support-queue-to-production-pipeline-how-oluwabunmi-engineered-her-way-into-the-cloud-3726bf46a342  
 
 ---
 
