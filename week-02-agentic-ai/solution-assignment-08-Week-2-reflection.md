@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Medium post screenshot](<screenshots/Medium post.png>)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@bunmiolowoyeye20/week-2-reflection-devops-micro-internship-7c934f68846a`
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Linkedin post screenshot](<screenshots/Linkedin post screenshot.png>)
 
 ---
 
@@ -101,14 +101,36 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 of my DevOps Micro Internship is done, and this one was less about learning new tools and more about learning how I actually work.
+ 
+A few things stood out:
+ 
+→ I found out how much time repetitive prompts costs hence turning them into reusable commands instead of retyping them every session was a small change with a big payoff.
+ 
+→ I confirmed something about myself: I learn by doing, not by watching. Tutorials only get me so far, the real learning happens when I'm the one hitting the error.
+ 
+→ I also caught a habit I want to break: skimming instructions instead of reading them fully. More than once, that shortcut cost me more time than it saved. Reading thoroughly before starting is the habit I'm carrying into Week 3.
+ 
+→ I ran into a couple of real troubleshooting moments too, one with a Claude Code hook quietly failing, and another tracing a tool dependency issue back to its root cause. Both took patience to diagnose, and both taught me more than if they'd just worked the first time.
+
+→ Bigger picture, this week reinforced something about DevOps itself: automation without control is a risk, and control without automation is just manual work with extra steps. The real skill is building both at once.
+ 
+The highlight of my week: hitting a failure, actually reading the output instead of guessing, and tracing it back to the real cause. Small moment, but it felt like the first real sign I'm starting to think like an engineer.
+ 
+Two weeks in, and the biggest lessons haven't been about tools, they've been about how I approach problems.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/e8WZt4qA ).
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
+View image
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/oluwabunmi-olowoyeye_dmibypravinmishra-agenticai-claudecode-share-7481497597946392576-nL2n/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw`
 
 ---
 
