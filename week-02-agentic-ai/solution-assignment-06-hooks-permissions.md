@@ -48,7 +48,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
 
-![Setting.json](<screenshots/Settings.json script.png>)
+![Pre-tool script](<screenshots/Pre-tool script.png>)
 
 ---
 
@@ -62,7 +62,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-![User prompt hook block](<screenshots/User prompt hook block.png>)
+![Post-tool script](<screenshots/Post-tool script.png>)
 
 ---
 
@@ -76,14 +76,10 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 #### Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
 
-![Pretool hook block](<screenshots/Pre-tool hook block.png>)
+![Settings.json](<screenshots/Settings.json script.png>)
 
 
 #### PostToolUse - Terraform validate and Deploy log
-
-![Terraform Validate](<screenshots/Terraform validate.png>)
-
-![Deploy log](<screenshots/Deploy log.png>)
 
 ---
 
@@ -97,6 +93,8 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
 
+![User prompt hook block](<screenshots/User prompt hook block.png>)
+
 ---
 
 # Task 7 — Test the PreToolUse Hook
@@ -108,6 +106,8 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+
+![Pre-tool hook block](<screenshots/Pre-tool hook block.png>)
 
 ---
 
@@ -121,7 +121,11 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 #### Screenshot 8 — Claude running terraform validate successfully
 
+![Terraform validate](<screenshots/Terraform validate.png>)
+
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
+
+![Deploy.log](<screenshots/Deploy log.png>)
 
 ---
 
