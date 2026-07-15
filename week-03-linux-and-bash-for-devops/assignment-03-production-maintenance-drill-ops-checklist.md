@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![React App showing full name](<screenshots/wk3-Deployed app.png>)
+![React app showing full name](<../week-03-linux-for-devops/screenshots/wk3-Deployed app.png>)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-![Ip a command](<screenshots/wk3-Ip a command.png>)
+![Ip -a command](<../week-03-linux-for-devops/screenshots/wk3-Ip a command.png>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-![ss tulpen](<screenshots/ss tulpen command.png>)
+![ss tulpen](<../week-03-linux-for-devops/screenshots/ss tulpen command.png>)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![ufw status](<screenshots/wk3-ufw status.png>)
+![ufw status](<../week-03-linux-for-devops/screenshots/wk3-ufw status.png>)
 
 ---
 
@@ -89,19 +89,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-![Nginx status again](<screenshots/wk3-Nginx status again.png>)
+![Nginx status again](<../week-03-linux-for-devops/screenshots/wk3-Nginx status again.png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-![Nginx test](<screenshots/wk3-nginx test ok.png>)
+![Nginx test](<../week-03-linux-for-devops/screenshots/wk3-nginx test ok.png>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-![ss lptn](<screenshots/wk3-ss lptn sport 80 .png>)
+![ss lptn](<../week-03-linux-for-devops/screenshots/wk3-ss lptn sport 80 .png>)
 
 ---
 
@@ -131,19 +131,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-![Access log](<screenshots/wk3-access log 30.png>)
+![Access log](<../week-03-linux-for-devops/screenshots/wk3-access log 30.png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-![Error log](<screenshots/wk3-error log 30.png>)
+![Error log](<../week-03-linux-for-devops/screenshots/wk3-error log 30.png>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-![Journalctl](<screenshots/wk3-journalctl 50.png>)
+![Journalctl](<../week-03-linux-for-devops/screenshots/wk3-journalctl 50.png>)
 
 ---
 
@@ -194,25 +194,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-![Uptime](screenshots/wk3-uptime.png)
+![Uptime](../week-03-linux-for-devops/screenshots/wk3-uptime.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-![free -h](<screenshots/wk3-free -h.png>)
+![free -h](<../week-03-linux-for-devops/screenshots/wk3-free -h.png>)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-![df -h](<screenshots/wk3-df -h.png>)
+![df -h](<../week-03-linux-for-devops/screenshots/wk3-df -h.png>)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-![du -sh](<screenshots/wk3-du -sh.png>)
+![du -sh](<../week-03-linux-for-devops/screenshots/wk3-du -sh.png>)
 
 ---
 
@@ -242,19 +242,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-![ls -lah](<screenshots/wk3-ls -lah.png>)
+![ls -lah](<../week-03-linux-for-devops/screenshots/wk3-ls -lah.png>)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-![Deployed by](<screenshots/wk3-grep Deployed by.png>)
+![Deployed by](<../week-03-linux-for-devops/screenshots/wk3-grep Deployed by.png>)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-![Try files](<screenshots/wk3-grep try_flies.png>)
+![Try files](<../week-03-linux-for-devops/screenshots/wk3-grep try_flies.png>)
 
 ---
 
@@ -278,19 +278,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-![Nginx syntax error](<screenshots/wk3-nginx conf test fail.png>)
+![Nginx syntax error](<../week-03-linux-for-devops/screenshots/wk3-nginx conf test fail.png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-![Fixed config](<screenshots/wk3-nginx test success.png>)
+![Fixed config](<../week-03-linux-for-devops/screenshots/wk3-nginx test success.png>)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![Curl 200 ok](<screenshots/wk3-curl http 200 ok.png>)
+![Curl 200 ok](<../week-03-linux-for-devops/screenshots/wk3-curl http 200 ok.png>)
 
 ---
 
@@ -326,13 +326,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![Curl failure](<screenshots/wk3-curl error.png>)
+![Curl failure](<../week-03-linux-for-devops/screenshots/wk3-curl error.png>)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![Curl success after fix](<screenshots/wk3-curl ok again.png>)
+![Curl success after fix](<../week-03-linux-for-devops/screenshots/wk3-curl ok again.png>)
 
 ---
 
@@ -412,7 +412,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-![Prod drill-Linkedin post](<screenshots/Prod drill linkedin screenshot.png>)
+![Prod drill Linkedin screenshot](<../week-03-linux-for-devops/screenshots/Prod drill linkedin screenshot.png>)
 
 ---
 

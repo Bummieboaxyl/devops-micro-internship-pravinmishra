@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-![Nginx status](<screenshots/wk3-Nginx status.png>)
+![Nginx status](<../week-03-linux-for-devops/screenshots/wk3-Nginx status.png>)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-![Extracted project folder](<screenshots/wk3-extracted project folder.png>)
+![Exracted project folder](<../week-03-linux-for-devops/screenshots/wk3-extracted project folder.png>)
 
 ---
 
@@ -48,7 +48,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-![Edited footer](<screenshots/wk3-edited footer.png>)
+![Edited footer](<../week-03-linux-for-devops/screenshots/wk3-edited footer.png>)
 
 ---
 
@@ -62,13 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-![Successful nginx test](<screenshots/wk3-portfolio nginx test.png>)
+![Successful nginx test](<../week-03-linux-for-devops/screenshots/wk3-portfolio nginx test.png>)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-![Website files](<screenshots/wk3-website files.png>)
+![Website files](<../week-03-linux-for-devops/screenshots/wk3-website files.png>)
 
 ---
 
@@ -82,13 +82,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![Ifconfigme](<screenshots/wk3-porfolio ifconfgme.png>)
+![ifconfigme](<../week-03-linux-for-devops/screenshots/wk3-porfolio ifconfgme.png>)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-![Portfolio site](<screenshots/wk3-Portfolio site with my details.png>)
+![Portfolio site](<../week-03-linux-for-devops/screenshots/wk3-Portfolio site with my details.png>)
 
 ---
 
@@ -102,13 +102,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-![Nginx enabled](<screenshots/wk3-Portfolio- nginx is enabled .png>)
+![Nginx enabled](<../week-03-linux-for-devops/screenshots/wk3-Portfolio- nginx is enabled .png>)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-![Localhost response](<screenshots/wk3-curl localhost.png>)
+![Localhost response](<../week-03-linux-for-devops/screenshots/wk3-curl localhost.png>)
 
 ---
 
@@ -126,7 +126,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-![Linkedin screenshot](<screenshots/portfolio linkedin pix.png>)
+![Linkedin screenshot](<../week-03-linux-for-devops/screenshots/portfolio linkedin pix.png>)
 
 ---
 
