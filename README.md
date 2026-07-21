@@ -80,7 +80,7 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
+ [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -134,7 +134,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_devops-cloudengineering-careergrowth-activity-7477757919766421504-et9I?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | https://medium.com/@bunmiolowoyeye20/from-support-queue-to-production-pipeline-how-oluwabunmi-engineered-her-way-into-the-cloud-3726bf46a342 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_dmibypravinmishra-agenticai-claudecode-activity-7481475854104088576-ED_o?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | https://medium.com/@bunmiolowoyeye20/week-2-reflection-devops-micro-internship-7c934f68846a |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_devops-react-nginx-activity-7482793284113793025-a2dv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_dmibypravinmishra-devops-git-ugcPost-7485378589601800192-zmQF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
