@@ -83,7 +83,7 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+ [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_dmibypravinmishra-agenticai-claudecode-activity-7481475854104088576-ED_o?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | https://medium.com/@bunmiolowoyeye20/week-2-reflection-devops-micro-internship-7c934f68846a |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_devops-react-nginx-activity-7482793284113793025-a2dv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | https://medium.com/@bunmiolowoyeye20/building-a-safe-linux-incident-triage-workflow-with-bash-and-ai-903029e8a807 |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/oluwabunmi-olowoyeye_dmibypravinmishra-devops-git-ugcPost-7485378589601800192-zmQF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIxKt4BWOFz-d7RRyAsVUilmny_HuUV_Iw | https://medium.com/@bunmiolowoyeye20/from-git-basics-to-ai-assisted-code-reviews-my-week-4-journey-110158370f6c |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://lnkd.in/p/eqwA-fi3 | https://medium.com/@bunmiolowoyeye20/connecting-jira-to-claude-code-with-mcp-building-a-read-only-sprint-health-skill-cbf4f8d48edc |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
